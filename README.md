@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I’m Rohan
 
 <!--
 **rohanlopes20/rohanlopes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you for checking out my GitHub Profile. 
+
+I like to work on 
+- Java 
+   - Spring Boot
+   - Spark
+   - Camel
+   - JUnit
+   - Node JS
+   - HTML
+   - JavaScript
+
+- 📫 How to reach me: rohanlopes20@gmail.com
