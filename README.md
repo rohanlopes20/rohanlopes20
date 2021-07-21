@@ -28,3 +28,4 @@ I like to work on
    - JavaScript
 
 - 📫 How to reach me: rohanlopes20@gmail.com
+- https://tibcopoint.blogspot.in/?m=1
