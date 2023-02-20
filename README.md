@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 Thank you for checking out my GitHub Profile. 
 
-I like to work on 
-- Java 
+I like to work on Java technologies
    - Spring Boot
-   - Spark
-   - Camel
+   - Spring JPA
+   - Apache Spark
+   - Apache Camel
+   - Apache Kafka
    - JUnit
    - Node JS
    - HTML
